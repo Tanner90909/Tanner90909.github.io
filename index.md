@@ -11,3 +11,11 @@ Additionally, I am a family man first. My daughter Mayson Grace and my son Noah 
 
 ![My Family](images/family.jpg)
 ![Noah](images/noah.jpg)
+
+#### Week 2
+
+The second week of bootcamp was centered around material I am much more comfortable with. HTML and CSS are things we practiced in the prework section before beginning the bootcamp so I had something of a grasp on these concepts before we even started week 2. This made me have a sense of confidence that I would be able to complete the project and make it to demo day confindently, which I did achieve. I will say though I was impressed when Will was able to use Javascript to make the little bird jump around his webpage. That is something I wish I knew how to do and will work towards learning.
+
+I solve problems by researching first, exhausting all my personal resources to find an answer. If this does not work then I tend to reach out and ask for help from the group. Collaboration and helping your peers is something that I believe not only makes for a strong team but makes for stronger individuals. I tend to get myself unstuck by asking for help, or also by simply walking away from the computer for a while, thinking about the situation critically and coming back to it with a fresh set of eyes. 
+
+I am excited, but nervous for week 3. Javascript is something I struggled with in the prework but something I do hope to get much better at. 
