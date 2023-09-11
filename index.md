@@ -19,3 +19,7 @@ The second week of bootcamp was centered around material I am much more comforta
 I solve problems by researching first, exhausting all my personal resources to find an answer. If this does not work then I tend to reach out and ask for help from the group. Collaboration and helping your peers is something that I believe not only makes for a strong team but makes for stronger individuals. I tend to get myself unstuck by asking for help, or also by simply walking away from the computer for a while, thinking about the situation critically and coming back to it with a fresh set of eyes. 
 
 I am excited, but nervous for week 3. Javascript is something I struggled with in the prework but something I do hope to get much better at. 
+
+#### Week 3
+
+My blog incorporates images as objects in the week 1 section. HTML and CSS are concepts that come more naturally to me, while javascript still feels like a big challenge overall. I can understand javascript when I look at the code and understand what the code is trying to do. I have issues with trying to understand all the syntax and with writing javascript code from scratch. I realized this week that I do need to focus on my pseudocode so I can be better prepared to put javascript code on paper when the time comes for whatever project I am working on. 
