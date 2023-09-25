@@ -1,1 +1,1 @@
-![blog wireframe](images/blog-wireframe.jpg)
+![blog wireframe](images/blog wireframe.jpg)
