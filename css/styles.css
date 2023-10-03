@@ -1,0 +1,12 @@
+.contact-button {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.headshot {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
