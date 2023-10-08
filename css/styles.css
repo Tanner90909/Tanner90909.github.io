@@ -1,12 +1,50 @@
+@keyframes scroll {
+    0% {
+        background-position: 0% 0%;
+    }
+    100% {
+        background-position: 0% 200%;
+    }
+}
+
+body, html {
+    height: 100%;
+    font-family: "Roboto", sans-serif;
+    background: linear-gradient(#cfe1e5, #07faa1, #cfe1e5);
+    background-size: 100% 200%; /* Set initial background size */
+    animation: scroll 5s infinite linear;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    font-size:xx-large
+}
+
+h4 {
+    text-align: center;
+    font-style: italic;
+}
+
 .contact-button {
-    width: 80px;
-    height: 80px;
-    object-fit: cover;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    
 }
 
 .headshot {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
     object-fit: cover;
     border-radius: 50%;
 }
+
