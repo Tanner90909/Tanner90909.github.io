@@ -9,8 +9,8 @@
 
 body, html {
     height: 100%;
-    font-family: "Roboto", sans-serif;
-    background: linear-gradient(#cfe1e5, #07faa1, #cfe1e5);
+    font-family: 'Montserrat', sans-serif;
+    background: radial-gradient(circle, #07faa1, #a3a0d7, #0bd4ff);
     background-size: 100% 200%; /* Set initial background size */
     animation: scroll 5s infinite linear;
 }
@@ -23,21 +23,42 @@ body, html {
     align-items: center;
 }
 
+@keyframes typing-animation {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
 h1 {
     text-align: center;
-    font-size:xx-large
+    font-weight: bold;
+    overflow: hidden;
+    border-right: 2px solid #333;
+    white-space: nowrap;
+    margin: 0;
+    animation: typing-animation 2s steps(20);
 }
 
 h4 {
     text-align: center;
-    font-style: italic;
+    font-weight: bold;
+    overflow: hidden;
+    border-right: 2px solid #333;
+    white-space: nowrap;
+    margin: 0;
+    animation: typing-animation 3s steps(20);
+}
+
+h1:last-child, h4:last-child {
+    border-right: none; /* Remove border from the last-child of h1 and h4 */
 }
 
 .contact-button {
-    width: 50px;
-    height: 50px;
-    margin: 10px;
-    
+    width: 60px;
+    height: 60px;
 }
 
 .headshot {
@@ -46,5 +67,6 @@ h4 {
     overflow: hidden;
     object-fit: cover;
     border-radius: 50%;
+    margin-bottom: 70px;
 }
 
